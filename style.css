@@ -1,0 +1,105 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+
+header div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.elwod{
+   
+    border-radius: 50px;
+    width: 219px;
+
+
+
+}
+
+.elwod1{
+    color: #0D0C5C;
+
+}
+
+.cards{
+    display: flex;
+    justify-content: space-around;
+}
+
+.cards div{
+    display: flex;
+    align-items: center;
+}
+
+button{
+    background-color: #208888cf;
+    border: none;
+    color: aliceblue;
+    width: 100px;
+    height: 45px;
+    border-radius: 20px;
+
+}
+
+input{
+    background-color: rgb(172, 167, 167);
+    color: aliceblue;
+    width: 286px;
+    height: 50px;
+    border-radius: 15px;
+    font-size: 14px;
+    border: none;
+    
+}
+
+
+
+.e2{
+    width: 290px;
+    height: 290px;
+    background-color: rgb(245, 243, 240);
+    border-radius: 30px;
+    text-align: center;
+   
+
+}
+
+.coin{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.e1 {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+   gap: 30px;
+   margin-top: 150px;
+}
+
+
+.a3{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    
+}
+
+
+.aa{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+
+
+
+
